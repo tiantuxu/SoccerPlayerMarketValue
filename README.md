@@ -1,6 +1,7 @@
-## CS573 Data Mining Course Project - Soccer Player Market Value Prediction
+## Soccer Player Market Value Prediction
+### CS573 Data Mining Course Project
 
 ### Neural Networks
-![cvxcx](./NN.pdf)
+![cvxcx](./NN.png)
 ### K-Nearest Neighbors
-![ScreenShot](./KNN.pdf)
+![ScreenShot](./KNN.png)
